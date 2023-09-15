@@ -1,2 +1,2 @@
-#Hello World
-This is my first video, go easy on me guys.
+# Hello World
+{I'm learning python}
